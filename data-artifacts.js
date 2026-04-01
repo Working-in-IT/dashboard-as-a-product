@@ -500,7 +500,8 @@ var ARTIFACTS = [
           //{ src: "assets/a11-dashboard-sla.png", caption: "Контроль свежести данных" }
         ],
         biImages: [
-          { src: "assets/pbi-data-alerts.png", caption: "Power BI: настройка Data Alerts" }
+          { src: "assets/pbi-data-alerts.png", caption: "Power BI: настройка Data Alerts" },
+          { src: "assets/trisigma-freshness-widget.png", caption: "Trisigma: виджет актуальности данных" }
         ],
         maturity: "mature",
       },
